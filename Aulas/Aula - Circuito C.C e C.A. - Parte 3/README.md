@@ -1,7 +1,6 @@
 # Aula – Análise de Circuitos com Indutores em C.C. e C.A.
 
 ## 🎓 Disciplina: Termodinâmica, Eletricidade e Magnetismo
-## 📅 Semana: [Inserir semana da aplicação]
 ## ⏰ Duração: 2 horas
 
 ---
